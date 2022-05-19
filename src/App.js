@@ -78,7 +78,7 @@ const params = {
 }
 
 const app = new Clarifai.App({
-  apiKey: 'ddc702339b1e4eaba37d48fc7d73ca05'
+  apiKey: 'your api key'
  })
 
 const particlesInit = async (main) => {
